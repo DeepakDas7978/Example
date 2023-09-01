@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.para1 {
+    border: solid 3px brown;
+    background-color: aqua;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.para2 {
+    border: solid 5px rgba(117, 214, 198, 0.74);
+    background-color: brown;
+    font-size: 15px;
+    border-radius: 5px;
+}
